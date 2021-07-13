@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    color: white;
+}
+
+.heading {
+    font-size: 20px;
+    letter-spacing: 5px;
+    padding: 10px;
+}
+
+span {
+    font-size: 20px;
+}
+
+#camera,
+#result {
+    border: dashed 3px black;
+    height: 300px;
+    width: 350px;
+}
+
+.hand_gesture {
+    font-size: 40px;
+}
+
+.gesture_emoji {
+    font-size: 48px;
+}
